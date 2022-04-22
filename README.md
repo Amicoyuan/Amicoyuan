@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Amicoyuan's GitHub stats](https://github-readme-stats.vercel.app/api?Amicoyuan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Amicoyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amicoyuan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 你好，世界 👋I'm Amicoyuan!
 ![GitHub followers](https://img.shields.io/github/followers/Amicoyuan?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Amicoyuan?style=social)
