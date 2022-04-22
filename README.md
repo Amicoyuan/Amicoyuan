@@ -1,4 +1,4 @@
-### Hi,there 👋I'm Amicoyuan! <img align="right" height=250 src="https://github-readme-stats.vercel.app/api?username=Amicoyuan&show_icons=true&theme=vue">
+### Hi,there 👋I'm Amicoyuan! <img align="right" height=270 src="https://github-readme-stats.vercel.app/api?username=Amicoyuan&show_icons=true&theme=vue">
 ![GitHub followers](https://img.shields.io/github/followers/Amicoyuan?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Amicoyuan?style=social)
 - 🔭 西南石油大学—信息管理与信息系统（2019.9-2023.6）
 - 🌱 正在学习高性能计算/并行计算/性能优化等相关知识内容
