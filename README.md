@@ -1,10 +1,9 @@
 ### Hi,there 👋I'm Amicoyuan! <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amicoyuan&show_icons=true&theme=dark">
 ![GitHub followers](https://img.shields.io/github/followers/Amicoyuan?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Amicoyuan?style=social)
 - 🔭 SWPU信息管理与信息系统在读
-- 🌱 正在学习高性能计算/并行计算/性能优化/超级计算机等相关知识内容
+- 🌱 正在学习高性能计算/并行计算/性能优化等相关知识内容
 - 😄 Blogs:https://xingyuanjie.top
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 📫 1024561360@qq.com
 ## &#x1f92b; Github Visitors
 
 
